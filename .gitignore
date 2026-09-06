@@ -1,0 +1,12 @@
+# Qt Creator local ayarları
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Build çıktıları
+build/
+build-*/
+*.o
+*.obj
+Makefile
+Makefile.*
